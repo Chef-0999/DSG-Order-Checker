@@ -1,0 +1,16 @@
+{
+  "name": "dickssportinggoods-order-checker",
+  "version": "1.0.0",
+  "description": "Basic request to check a Dick's Sporting Goods order",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "0.24.0",
+    "chalk": "^4.1.1",
+    "got": "^11.8.2"
+  },
+  "author": "Chef#0999",
+  "license": "ISC"
+}
