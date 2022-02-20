@@ -1,2 +1,2 @@
-# Dick-s-Sporting-Goods-order-Checker
+# DSG-Order-Checker
 Basic request to check orders on Dick's Sporting Goods with Discord webhook support.
